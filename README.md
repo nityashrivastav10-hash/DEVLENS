@@ -4,7 +4,7 @@
 
 [Live Application](https://devlens-beryl-one.vercel.app)
 
-DevLens is an AI-powered platform that analyzes GitHub repositories and provides a clear, structured view of project health, development activity, and overall repository quality.
+DevLens is an AI-powered platform that analyzes GitHub repositories and provides a clear,structured view of project health, development activity, and overall repository quality.
 
 It brings together repository data, engineering metrics, interactive visualizations, and AI-generated insights to help developers understand a GitHub project without manually going through multiple repository statistics.
 
